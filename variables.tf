@@ -11,5 +11,5 @@ variable "zone" {
 }
 
 variable "cluster" {
-  default = "concourse-cluster"
+  default = "my-cluster"
 }
