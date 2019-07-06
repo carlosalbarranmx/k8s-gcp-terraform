@@ -1,15 +1,15 @@
 variable "project" {
-  default = "k8s-elixir-project"
+  default = "k8s-gcp-project"
 }
 
 variable "region" {
-  default = "europe-west3"
+  default = "us-central"
 }
 
 variable "zone" {
-  default = "europe-west3-a"
+  default = "us-central-1a"
 }
 
 variable "cluster" {
-  default = "elixir-cluster"
+  default = "concourse-cluster"
 }
