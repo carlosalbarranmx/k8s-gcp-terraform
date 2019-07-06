@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 export TF_PROJECT_NAME="k8s-elixir-project"
-export TF_REGION="europe-west3"
-export TF_CLUSTER="elixir-cluster"
+export TF_REGION="us-central"
+export TF_CLUSTER="my-cluster"
 export TF_BILLING_ACCOUNT_ID=
 export TF_FOLDER=
 
