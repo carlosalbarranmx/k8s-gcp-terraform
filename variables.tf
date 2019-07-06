@@ -3,11 +3,11 @@ variable "project" {
 }
 
 variable "region" {
-  default = "us-central"
+  default = "us-central1"
 }
 
 variable "zone" {
-  default = "us-central-1a"
+  default = "us-central1-a"
 }
 
 variable "cluster" {
